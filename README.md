@@ -2,9 +2,6 @@
 
 > 🚀 A Python program that interacts with OpenAI's GPT-3.5-turbo model and shows token usage stats.
 
-![OpenAI](https://img.shields.io/badge/Powered%20by-OpenAI-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📖 Overview
 
